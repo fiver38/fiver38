@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Freddy Vergara</h1>
-<h3 align="center">A passionate full stack developer from Ecuador. I always seek to learn, create and innovate.</h3>
+<h3 align="center">A passionate Full Stack Developer, AI Engineer and Team Leader. I always seek to learn, create and innovate.</h3>
 
 - 🌱 I’m currently learning **Machine learning, Deep learning, and another techniques.**
 
 - 📝 I regularly write articles on [https://medium.com/@fiver38](https://medium.com/@fiver38)
 
-- 📫 How to reach me **proyectati593@gmail.com**
+- 📫 How to reach me **fiver382@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
